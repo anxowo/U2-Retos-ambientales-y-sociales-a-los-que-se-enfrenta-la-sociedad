@@ -6,9 +6,7 @@ Por un lado nos hemos dado cuenta de que los problemas ambientales y sociales es
 Por otro lado tambien nos hemos dado cuenta de que es muy importante que tanto gobiernos como empresas, y los ciudadanos de a pie sean conscientes de los problemas medioambientales y colaboren entre si para implementar soluciones sostenibles. 
 
 
-
-
-
+![mapa.png](https://github.com/ivanius05/U2-Retos-ambientales-y-sociales-a-los-que-se-enfrenta-la-sociedad/blob/main/IMAGENES/mapa.png)
 
 
 ## Autores
