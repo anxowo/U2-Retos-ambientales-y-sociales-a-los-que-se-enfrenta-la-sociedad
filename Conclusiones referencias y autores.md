@@ -4,6 +4,20 @@
 
 
 
+## Autores
+
+#### [Alberto Rodríguez Álamo](https://github.com/Alberto-Rodriguez999)
+
+
+#### [Ignacio Hernández Morillo](https://github.com/anxowo)
+
+
+#### [Ivan Martínez Miguel](https://github.com/ivanius05)
+
+
+
+
+
 
 
 
