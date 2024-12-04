@@ -28,7 +28,7 @@
   Enfermedad epidémica que se extiende a muchos países o que ataca a casi todos los individuos de una localidad o región.
 
 
-  ## Retp
+  ## Reto ambiental: son los desafios a los que se enfrenta la sociedad y la tierra para combatir los problemas ambientales.
 
 
   ## Saneamiento: 
