@@ -20,7 +20,8 @@ El efecto invernadero es la forma en que el calor queda atrapado cerca de la sup
 Que se desarrolla en lugares donde las condiciones, la modalidad o la naturaleza del trabajo afectan la salud.
 
 
-## Migración 
+## Migración:
+Movimiento de una persona o grupos de personas que,debido a cambios en el medio ambiente debido al cambio climático, se ven obligadas a abandonar su lugar de residencia de forma temporal o permanente
 
 
 ## Pandemía: 
